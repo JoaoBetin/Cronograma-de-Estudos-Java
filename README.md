@@ -7,7 +7,7 @@
 *Foco: Sintaxe, OOP, Memória e Collections.*
 
 - **Semana 1: Sintaxe & Memória**
-  - [ ] Hello World, Tipos Primitivos vs Wrappers
+  - [x] Hello World, Tipos Primitivos vs Wrappers
   - [ ] Estrutura de Classes e Objetos
   - [ ] Modificadores e `this`
   - [ ] Stack vs Heap & Garbage Collector
