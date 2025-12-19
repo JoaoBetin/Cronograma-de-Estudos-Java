@@ -7,70 +7,68 @@
 *Foco: Sintaxe, OOP, Memória e Collections.*
 
 - **Semana 1: Sintaxe & Memória**
-    - [ ] Hello World, Tipos Primitivos vs Wrappers
-    - [ ] Estrutura de Classes e Objetos
-    - [ ] Modificadores e `this`
-    - [ ] Stack vs Heap & Garbage Collector
-    - [ ] Herança e Polimorfismo
-    - [ ] ⚔️ **Prática:** Mini-RPG Battle System\
-      <br>
+  - [ ] Hello World, Tipos Primitivos vs Wrappers
+  - [ ] Estrutura de Classes e Objetos
+  - [ ] Modificadores e `this`
+  - [ ] Stack vs Heap & Garbage Collector
+  - [ ] Herança e Polimorfismo
+  - [ ] ⚔️ **Prática:** Mini-RPG Battle System
 
 - **Semana 2: Interfaces & Exceptions**
-    - [ ] Classes Abstratas vs Interfaces
-    - [ ] Enums
-    - [ ] Try, Catch, Finally & Exceptions
-    - [ ] Packages e Organização
-    - [ ] 🔐 **Prática:** Enigma Encryption Machine\
-      <br>
+  - [ ] Classes Abstratas vs Interfaces
+  - [ ] Enums
+  - [ ] Try, Catch, Finally & Exceptions
+  - [ ] Packages e Organização
+  - [ ] 🔐 **Prática:** Enigma Encryption Machine
+
 - **Semana 3: Collections Framework**
-    - [ ] Generics e ArrayList
-    - [ ] HashMap e HashSet
-    - [ ] Iterators e Foreach
-    - [ ] Equals, HashCode e Comparable
-    - [ ] 🏆 **Prática:** E-Sports Tournament Manager
+  - [ ] Generics e ArrayList
+  - [ ] HashMap e HashSet
+  - [ ] Iterators e Foreach
+  - [ ] Equals, HashCode e Comparable
+  - [ ] 🏆 **Prática:** E-Sports Tournament Manager
 
 ---
 
 ### FASE 2: Java Moderno & Dados
 *Foco: Lambdas, Streams e Banco de Dados.*
 
--  **Semana 4: Functional Java**
-    - [ ] Lambdas
-    - [ ] Stream API
-    - [ ] Data API (LocalDate)
-    - [ ] Java NIO (Arquivos)
-    - [ ] Maven Basics
-    - [ ] 🎧 **Prática:** Music Data Analytics (Streams)\
-      <br>
--  **Semana 5: JDBC & SQL**
-    - [ ] SQL Review
-    - [ ] Conexão JDBC
-    - [ ] Padrão DAO
-    - [ ] ResultSets
-    - [ ] Transações
-    - [ ] 💾 **Prática:** Persistência do Music Data (SQL)
+- **Semana 4: Functional Java**
+  - [ ] Lambdas
+  - [ ] Stream API
+  - [ ] Data API (LocalDate)
+  - [ ] Java NIO (Arquivos)
+  - [ ] Maven Basics
+  - [ ] 🎧 **Prática:** Music Data Analytics (Streams)
+
+- **Semana 5: JDBC & SQL**
+  - [ ] SQL Review
+  - [ ] Conexão JDBC
+  - [ ] Padrão DAO
+  - [ ] ResultSets
+  - [ ] Transações
+  - [ ] 💾 **Prática:** Persistência do Music Data (SQL)
 
 ---
 
 ### FASE 3: Spring Boot & Projeto Final
 *Foco: Web API e Framework.*
 
--  **Semana 6: Spring Boot Ecosystem**
-    - [ ] Injeção de Dependência
-    - [ ] Spring Data JPA
-    - [ ] Entities
-    - [ ] REST Controllers
-    - [ ] 🌐 **Prática:** Hello World API Complexo\
-    <br>
--  **Semana 7: Projeto Dungeon Master (Backend)**
-    - [ ] Setup & Entidades (Mestre, Campanha, Personagem)
-    - [ ] Repositories & Testes
-    - [ ] Services (Regras de Negócio)
-    - [ ] Controllers & Endpoints\
-      <br>
+- **Semana 6: Spring Boot Ecosystem**
+  - [ ] Injeção de Dependência
+  - [ ] Spring Data JPA
+  - [ ] Entities
+  - [ ] REST Controllers
+  - [ ] 🌐 **Prática:** Hello World API Complexo
 
--  **Semana 8: Refinamento & Entrega**
-    - [ ] DTOs & Mappers
-    - [ ] Bean Validation
-    - [ ] Swagger Documentation (OpenAPI)
-    - [ ] 🐉 **Final:** Deploy da Dungeon Master API
+- **Semana 7: Projeto Dungeon Master (Backend)**
+  - [ ] Setup & Entidades (Mestre, Campanha, Personagem)
+  - [ ] Repositories & Testes
+  - [ ] Services (Regras de Negócio)
+  - [ ] Controllers & Endpoints
+
+- **Semana 8: Refinamento & Entrega**
+  - [ ] DTOs & Mappers
+  - [ ] Bean Validation
+  - [ ] Swagger Documentation (OpenAPI)
+  - [ ] 🐉 **Final:** Deploy da Dungeon Master API
