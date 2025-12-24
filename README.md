@@ -9,10 +9,10 @@
 - **Semana 1: Sintaxe & Memória**
   - [x] Hello World, Tipos Primitivos vs Wrappers
   - [x] Estrutura de Classes e Objetos
-  - [ ] Modificadores e `this`
-  - [ ] Stack vs Heap & Garbage Collector
-  - [ ] Herança e Polimorfismo
-  - [ ] ⚔️ **Prática:** Mini-RPG Battle System
+  - [x] Modificadores e `this`
+  - [x] Stack vs Heap & Garbage Collector
+  - [x] Herança e Polimorfismo
+  - [x] ⚔️ **Prática:** Mini-RPG Battle System
 
 - **Semana 2: Interfaces & Exceptions**
   - [ ] Classes Abstratas vs Interfaces
