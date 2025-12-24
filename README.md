@@ -8,7 +8,7 @@
 
 - **Semana 1: Sintaxe & Memória**
   - [x] Hello World, Tipos Primitivos vs Wrappers
-  - [ ] Estrutura de Classes e Objetos
+  - [x] Estrutura de Classes e Objetos
   - [ ] Modificadores e `this`
   - [ ] Stack vs Heap & Garbage Collector
   - [ ] Herança e Polimorfismo
